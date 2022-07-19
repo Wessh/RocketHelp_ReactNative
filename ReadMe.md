@@ -22,3 +22,7 @@ Aplicativo feito na Ignite Lab realizado pela **Rocketseat**.
 
 - Para icones:
     <https://phosphoricons.com/>
+
+- Para Navegação no app:
+    <https://reactnavigation.org/>
+  - <https://reactnavigation.org/docs/hello-react-navigation>

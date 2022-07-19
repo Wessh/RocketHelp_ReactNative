@@ -6,7 +6,7 @@ import { Envelope, Key } from 'phosphor-react-native';
 import Logo from '../assets/logo_primary.svg';
 
 import { Input } from '../components/Input';
-import { Button } from '../components/button';
+import { Button } from '../components/Button';
 
 export function SingIn() {
     // É um array de duas posições onde, a primeira é o estado e a segunda é a função que atualiza o estado.
