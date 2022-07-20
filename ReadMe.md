@@ -26,3 +26,6 @@ Aplicativo feito na Ignite Lab realizado pela **Rocketseat**.
 - Para Navegação no app:
     <https://reactnavigation.org/>
   - <https://reactnavigation.org/docs/hello-react-navigation>
+
+- Para conexão com o firebase:
+  <https://rnfirebase.io/>
